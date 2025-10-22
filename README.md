@@ -21,4 +21,4 @@ In main.py you can set:
 ```
 python3 main.py
 ```
-[![Video](https://gitlab.com/simonemargio/DamienHirstPainting/uploads/f9df5a947ca9ab4f5582dd00770b5b83/ptg.mp4)](https://gitlab.com/simonemargio/DamienHirstPainting/uploads/f9df5a947ca9ab4f5582dd00770b5b83/ptg.mp4)
+[![Video](https://user-images.githubusercontent.com/22590804/162208941-9337da42-2b69-4ecf-adea-c380be486179.mov)](https://user-images.githubusercontent.com/22590804/162208941-9337da42-2b69-4ecf-adea-c380be486179.mov)
